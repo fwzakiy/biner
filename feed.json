@@ -10,8 +10,24 @@
     },
     "items": [
         {
-            "id": "https://blog.biner.web.id/postingan-pertama.html",
-            "url": "https://blog.biner.web.id/postingan-pertama.html",
+            "id": "https://blog.biner.web.id/postingan-kedua/index.html",
+            "url": "https://blog.biner.web.id/postingan-kedua/index.html",
+            "title": "Postingan Kedua",
+            "summary": "Sebuah percobaan yang dilakukan untuk kedua kalinya. Tidak muluk-muluk, hanya mengetik sebaik-baikknya.",
+            "content_html": "<p>Sebuah percobaan yang dilakukan untuk kedua kalinya. Tidak muluk-muluk, hanya mengetik sebaik-baikknya.</p>",
+            "image": "https://blog.biner.web.id/media/posts/2/1d3c97eb273550a38947ba0ed4a070ec841b8e3cfa6d9bcd5efc201dcf292ab7.png",
+            "author": {
+                "name": "Faishal Wafiq Zakiy"
+            },
+            "tags": [
+                   "Anime"
+            ],
+            "date_published": "2021-10-28T12:13:25+07:00",
+            "date_modified": "2021-10-28T12:13:25+07:00"
+        },
+        {
+            "id": "https://blog.biner.web.id/postingan-pertama/index.html",
+            "url": "https://blog.biner.web.id/postingan-pertama/index.html",
             "title": "Postingan Pertama",
             "summary": "Kami menggunakan CMS Publii untuk pertama kalinya di blog ini. Semoga berjalan dengan baik.",
             "content_html": "<p>Kami menggunakan CMS Publii untuk pertama kalinya di blog ini.</p>\n<p>Semoga berjalan dengan baik.</p>",

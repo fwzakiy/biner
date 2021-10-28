@@ -3,19 +3,42 @@
     <title>Biner</title>
     <link href="https://blog.biner.web.id/feed.xml" rel="self" />
     <link href="https://blog.biner.web.id" />
-    <updated>2021-10-28T11:59:25+07:00</updated>
+    <updated>2021-10-28T12:13:25+07:00</updated>
     <author>
         <name>Faishal Wafiq Zakiy</name>
     </author>
     <id>https://blog.biner.web.id</id>
 
     <entry>
+        <title>Postingan Kedua</title>
+        <author>
+            <name>Faishal Wafiq Zakiy</name>
+        </author>
+        <link href="https://blog.biner.web.id/postingan-kedua/index.html"/>
+        <id>https://blog.biner.web.id/postingan-kedua/index.html</id>
+            <category term="Anime"/>
+
+        <updated>2021-10-28T12:13:25+07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.biner.web.id/media/posts/2/1d3c97eb273550a38947ba0ed4a070ec841b8e3cfa6d9bcd5efc201dcf292ab7.png" alt="I refuse your refusal." />
+                    Sebuah percobaan yang dilakukan untuk kedua kalinya. Tidak muluk-muluk, hanya mengetik sebaik-baikknya.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://blog.biner.web.id/media/posts/2/1d3c97eb273550a38947ba0ed4a070ec841b8e3cfa6d9bcd5efc201dcf292ab7.png" alt="I refuse your refusal." />
+                <p>Sebuah percobaan yang dilakukan untuk kedua kalinya. Tidak muluk-muluk, hanya mengetik sebaik-baikknya.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Postingan Pertama</title>
         <author>
             <name>Faishal Wafiq Zakiy</name>
         </author>
-        <link href="https://blog.biner.web.id/postingan-pertama.html"/>
-        <id>https://blog.biner.web.id/postingan-pertama.html</id>
+        <link href="https://blog.biner.web.id/postingan-pertama/index.html"/>
+        <id>https://blog.biner.web.id/postingan-pertama/index.html</id>
             <category term="Anime"/>
 
         <updated>2021-10-28T11:59:25+07:00</updated>
