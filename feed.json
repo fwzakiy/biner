@@ -9,5 +9,21 @@
         "name": "Faishal Wafiq Zakiy"
     },
     "items": [
+        {
+            "id": "https://blog.biner.web.id/postingan-pertama.html",
+            "url": "https://blog.biner.web.id/postingan-pertama.html",
+            "title": "Postingan Pertama",
+            "summary": "Kami menggunakan CMS Publii untuk pertama kalinya di blog ini. Semoga berjalan dengan baik.",
+            "content_html": "<p>Kami menggunakan CMS Publii untuk pertama kalinya di blog ini.</p>\n<p>Semoga berjalan dengan baik.</p>",
+            "image": "https://blog.biner.web.id/media/posts/1/get-2.gif",
+            "author": {
+                "name": "Faishal Wafiq Zakiy"
+            },
+            "tags": [
+                   "Anime"
+            ],
+            "date_published": "2021-10-28T11:59:25+07:00",
+            "date_modified": "2021-10-28T11:59:25+07:00"
+        }
     ]
 }
