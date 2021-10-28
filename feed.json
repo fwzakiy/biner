@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://blog.biner.web.id/postingan-kedua/index.html",
-            "url": "https://blog.biner.web.id/postingan-kedua/index.html",
+            "id": "https://blog.biner.web.id/postingan-kedua/",
+            "url": "https://blog.biner.web.id/postingan-kedua/",
             "title": "Postingan Kedua",
             "summary": "Sebuah percobaan yang dilakukan untuk kedua kalinya. Tidak muluk-muluk, hanya mengetik sebaik-baikknya.",
             "content_html": "<p>Sebuah percobaan yang dilakukan untuk kedua kalinya. Tidak muluk-muluk, hanya mengetik sebaik-baikknya.</p>",
@@ -26,8 +26,8 @@
             "date_modified": "2021-10-28T12:13:25+07:00"
         },
         {
-            "id": "https://blog.biner.web.id/postingan-pertama/index.html",
-            "url": "https://blog.biner.web.id/postingan-pertama/index.html",
+            "id": "https://blog.biner.web.id/postingan-pertama/",
+            "url": "https://blog.biner.web.id/postingan-pertama/",
             "title": "Postingan Pertama",
             "summary": "Kami menggunakan CMS Publii untuk pertama kalinya di blog ini. Semoga berjalan dengan baik.",
             "content_html": "<p>Kami menggunakan CMS Publii untuk pertama kalinya di blog ini.</p>\n<p>Semoga berjalan dengan baik.</p>",
